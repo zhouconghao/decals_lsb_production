@@ -11,7 +11,7 @@
 #SBATCH --licenses=cfs,SCRATCH
 #SBATCH --image=zhouconghao/legacyhalos:latest
 #SBATCH --output=/global/cfs/projectdirs/desi/users/zhouc/decals_lsb_production/scripts/slurm/log3/logslegacyhalos_array_test-%A-%a.txt
-#SBATCH --mail-user=czhou64@ucsc.edu
+#SBATCH --mail-user=xus21@mails.tsinghua.edu.cn
 #SBATCH --mail-type=ALL
 #SBATCH --module=mpich
 

@@ -14,6 +14,7 @@ export LEGACYHALOS_CODE_DIR=/global/cfs/projectdirs/desi/users/zhouc/desi_lsb/de
 
 # Specify the location of the input and output data.
 # export LEGACYHALOS_DIR=/global/cfs/cdirs/desi/users/ioannis/legacyhalos/$project
+# /global/cfs/projectdirs/desi/users/zhouc/decals_lsb_production
 export LEGACYHALOS_DIR=/global/cfs/projectdirs/desi/users/zhouc/decals_lsb_production/input_catalogs/0
 # export LEGACYHALOS_DATA_DIR=/global/cfs/cdirs/desi/users/ioannis/$project-data
 export LEGACYHALOS_DATA_DIR=/global/cfs/projectdirs/desi/users/zhouc/decals_lsb_production/output/0/output
